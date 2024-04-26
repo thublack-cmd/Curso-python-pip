@@ -11,10 +11,10 @@ python main.py
 
 # App Project
 
-'''sh
+```sh
 git clone
 cd app
 source .env/bin/activate
 pip install -r requirements.txt
 python main.py
-'''
+```
